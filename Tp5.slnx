@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exo2/Exo2.vcxproj" />
+  <Project Path="Tp5/Tp5.vcxproj" />
+</Solution>
